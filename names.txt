@@ -1,7 +1,7 @@
 Simon McCallum
 Johannes Hoveland : johhov
 Thomas Enge Lund
-Mimoz� Lladrovci
+Mimoz� Lladrovci
 Arlinda Rushiti :Arlinda
 Alexander Walter :CrazzyLarry
 Aleksander Olsen  : D3stny
@@ -9,4 +9,4 @@ Albert Gutowski: algoblin
 Jan Greger Hemb: JGH153
 Marius Rødland : Marhaak
 Sindre Grannes Børresen : treigzak
-
+Leif Ivar Halås : leivar
